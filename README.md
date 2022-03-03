@@ -4,7 +4,7 @@ Um gerador de senhas simples;
 Link: http://woppedwoke.github.io/senha-gerador/
 
 # Preview
-<img src="img/preview.png" alt="">
+<img src="img/previ.png" alt="">
 
 # Tecnologias usadas
 <ul>
