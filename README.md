@@ -1,5 +1,5 @@
 # Gerador-de-senha-
-Um gerador de senhas simples que gera senha com números ,Letras e Símbolos;  
+Um gerador de senhas simples;  
 
 Link: http://woppedwoke.github.io/Gerador-de-senha-/
 
