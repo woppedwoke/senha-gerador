@@ -1,7 +1,7 @@
 # Gerador-de-senha-
 Um gerador de senhas simples;  
 
-Link: http://woppedwoke.github.io/senha-gerador/
+<a style="font-size: 40px;" href="https://woppedwoke.github.io/senha-gerador/">Usar</a>
 
 # Preview
 <img src="img/previ.PNG" alt="">
