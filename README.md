@@ -1,5 +1,4 @@
-# Gerador-de-senha-
-Um gerador de senhas simples;  
+# Gerador-de-senha- 
 
 <a style="font-size: 40px;" href="https://woppedwoke.github.io/senha-gerador/">Usar</a>
 
